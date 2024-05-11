@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ma branche cagnotte
 et voila mes modifs sont terminées
 
 c'est good
+=======
+c'est good
+
+de nouvelles modifs
+>>>>>>> cagnotte
